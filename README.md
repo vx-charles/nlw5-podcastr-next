@@ -1,4 +1,6 @@
-<img src="./public/logo.svg" style="width: 100%;">
+<h1 align="center">
+  <img src="./public/logo.svg" width="600" style="width: 100%;">
+</h1>
 
 # About
 The Podcastr it's an application that allows listing and listening to podcasts.
